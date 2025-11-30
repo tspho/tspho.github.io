@@ -8,8 +8,7 @@ date: Feb - May 2025
 location: "Hong Kong "
 ---
 
-ELEC5900 - Modern Engineering Research Methodologies
-
+ELEC5900 - Modern Engineering Research Methodologies  
 EESM5200 - Engineering Thinking: From Research to Entrepreneurship
 Heading 1
 ======
