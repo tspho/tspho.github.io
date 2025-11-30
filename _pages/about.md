@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<span style="color: red; font-size: 2em;">I am actively looking for PDE/PIE/TCAD/TD/device jobs in Singapore/Taiwan!!! Please contact me if you have available positions!!! </span>
 
 Master of Philosophy (M.Phil.) student  
 [Emerging Device and Systems Group](https://device.hkust.edu.hk/)  
